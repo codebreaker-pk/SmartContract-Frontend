@@ -15,7 +15,7 @@ The SimpleContract smart contract includes the following functions:
 
 1. `getValue()`: This function allows anyone to view the current value stored in the contract.
 
-2. `setValue(uint256 _newValue)`: Only the contract owner can use this function to set a new value in the contract.
+2. `setValue(uint _newValue)`: Only the contract owner can use this function to set a new value in the contract.
 
 3. `incrementValue()`: Only the contract owner can use this function to increment the current value by one.
 
