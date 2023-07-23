@@ -79,4 +79,4 @@ git clone https://github.com/codebreaker-pk/SmartContract-Frontend.git```
 - Email: official.pk.900@gmail.com
 
 ## License
-This project is licensed under the [MIT License](LICENCE)
+This project is licensed under the [MIT License](LICENSE)
