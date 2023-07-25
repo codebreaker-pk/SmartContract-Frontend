@@ -37,7 +37,7 @@ Follow the steps below to deploy the SimpleContract smart contract on a local Et
 ### Smart Contract Deployment
 
 1. Clone the repository: ```git clone https://github.com/codebreaker-pk/SmartContract-Frontend.git```
-2.  Navigate to the project directory:   `cd my-dapp`
+2.  Navigate to the project directory:   `cd SmartContract-Frontend/my-dapp`
 3. Install project dependencies by running: `npm install`
 
 4. Start the local Ethereum network (Hardhat's built-in node) by running: `npx hardhat node`
